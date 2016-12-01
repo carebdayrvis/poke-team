@@ -68,6 +68,12 @@ function cacheMon(mon) {
     cacheClient.set(`p:${mon.name}`, JSON.stringify(mon), err => console.log(err))
 }
 
+app.use("*", (req, res, next) => {
+    res.header("Access-Control-Allow-Origin", "*")
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept")
+    next()
+})
+
 app.use("/mons/:name", (req, res, next) => {
     readMon(req.params.name).then(mon => res.send(mon)).catch(next)
 })
