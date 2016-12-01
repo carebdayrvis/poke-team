@@ -1,0 +1,19 @@
+{
+  "name": "poke-team",
+  "version": "0.0.1",
+  "description": "Pokemon Team Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caleb Davis <caleb.aaron.davis@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "csv": "^1.1.0",
+    "express": "^4.14.0",
+    "get": "^1.4.0",
+    "got": "^6.6.3",
+    "pokedex-promise-v2": "^3.0.1"
+  }
+}

@@ -1,0 +1,87 @@
+id,name,sprite,types,weakness,immunity,resistance,Hidden,Abilities
+722,rowlet,https://img.pokemondb.net/artwork/rowlet.jpg,"{grass,flying}","{fire,flying,ice,ice,poison,rock}",{ground},"{fighting,grass,grass,water}","{""Long Reach""}",{Overgrow}
+723,dartrix,https://img.pokemondb.net/artwork/dartrix.jpg,"{grass,flying}","{fire,flying,ice,ice,poison,rock}",{ground},"{fighting,grass,grass,water}","{""Long Reach""}",{Overgrow}
+724,decidueye,https://img.pokemondb.net/artwork/decidueye.jpg,"{grass,ghost}","{dark,fire,flying,ghost,ice}","{fighting,normal}","{electric,grass,ground,water}","{""Long Reach""}",{Overgrow}
+725,litten,https://img.pokemondb.net/artwork/litten.jpg,{fire},"{ground,rock,water}",{},"{bug,fairy,fire,grass,ice,steel}",{Intimidate},{Blaze}
+726,torracat,https://img.pokemondb.net/artwork/torracat.jpg,{fire},"{ground,rock,water}",{},"{bug,fairy,fire,grass,ice,steel}",{Intimidate},{Blaze}
+727,incineroar,https://img.pokemondb.net/artwork/incineroar.jpg,"{fire,dark}","{fairy,fighting,ground,rock,water}",{psychic},"{dark,fairy,fire,ghost,grass,ice,steel}",{Intimidate},{Blaze}
+728,popplio,https://img.pokemondb.net/artwork/popplio.jpg,{water},"{electric,grass}",{},"{fire,ice,steel,water}","{""Liquid Voice""}",{Torrent}
+729,brionne,https://img.pokemondb.net/artwork/brionne.jpg,{water},"{electric,grass}",{},"{fire,ice,steel,water}","{""Liquid Voice""}",{Torrent}
+730,primarina,https://img.pokemondb.net/artwork/primarina.jpg,"{water,fairy}","{electric,grass,poison}",{dragon},"{bug,dark,fighting,fire,ice,water}","{""Liquid Voice""}",{Torrent}
+731,pikipek,https://img.pokemondb.net/artwork/pikipek.jpg,"{normal,flying}","{electric,ice,rock}","{ghost,ground}","{bug,grass}",{Pickup},"{""Skill Link"",""Keen Eye""}"
+732,trumbeak,https://img.pokemondb.net/artwork/trumbeak.jpg,"{normal,flying}","{electric,ice,rock}","{ghost,ground}","{bug,grass}",{Pickup},"{""Skill Link"",""Keen Eye""}"
+733,toucannon,https://img.pokemondb.net/artwork/toucannon.jpg,"{normal,flying}","{electric,ice,rock}","{ghost,ground}","{bug,grass}","{""Sheer Force""}","{""Skill Link"",""Keen Eye""}"
+734,yungoos,https://img.pokemondb.net/artwork/yungoos.jpg,{normal},{fighting},{ghost},{},{Adaptability},"{""Strong Jaw"",Stakeout}"
+735,gumshoos,https://img.pokemondb.net/artwork/gumshoos.jpg,{normal},{fighting},{ghost},{},{Adaptability},"{""Strong Jaw"",Stakeout}"
+736,grubbin,https://img.pokemondb.net/artwork/grubbin.jpg,{bug},"{fire,flying,rock}",{},"{fighting,grass,ground}",{none},{Swarm}
+737,charjabug,https://img.pokemondb.net/artwork/charjabug.jpg,"{bug,electric}","{fire,rock}",{},"{electric,fighting,grass,steel}",{none},{Battery}
+738,vikavolt,https://img.pokemondb.net/artwork/vikavolt.jpg,"{bug,electric}","{fire,rock}",{},"{electric,fighting,grass,steel}",{none},{Levitate}
+739,crabrawler,https://img.pokemondb.net/artwork/crabrawler.jpg,{fighting},"{fairy,flying,psychic}",{},"{bug,dark,rock}","{""Anger Point""}","{""Hyper Cutter"",""Iron Fist""}"
+740,crabominable,https://img.pokemondb.net/artwork/crabominable.jpg,"{fighting,ice}","{fairy,fighting,fire,flying,psychic,steel}",{},"{bug,dark,ice}","{""Anger Point""}","{""Hyper Cutter"",""Iron Fist""}"
+741,oricorio-baile,https://img.pokemondb.net/artwork/oricorio-baile.jpg,"{fire,flying}","{electric,rock,rock,water}",{ground},"{bug,bug,fairy,fighting,fire,grass,grass,steel}",{none},{Dancer}
+742,cutiefly,https://img.pokemondb.net/artwork/cutiefly.jpg,"{bug,fairy}","{fire,flying,poison,rock,steel}",{dragon},"{bug,dark,fighting,fighting,grass,ground}","{""Sweet Veil""}","{""Shield Dust"",""Honey Gather""}"
+743,ribombee,https://img.pokemondb.net/artwork/ribombee.jpg,"{bug,fairy}","{fire,flying,poison,rock,steel}",{dragon},"{bug,dark,fighting,fighting,grass,ground}","{""Sweet Veil""}","{""Shield Dust"",""Honey Gather""}"
+744,rockruff,https://img.pokemondb.net/artwork/rockruff.jpg,{rock},"{fighting,grass,ground,steel,water}",{},"{fire,flying,normal,poison}",{Steadfast},"{""Vital Spirit"",""Keen Eye""}"
+745,lycanroc-midday,https://img.pokemondb.net/artwork/lycanroc-midday.jpg,{rock},"{fighting,grass,ground,steel,water}",{},"{fire,flying,normal,poison}",{Steadfast},"{""Sand Rush"",""Keen Eye""}"
+746,wishiwashi,https://img.pokemondb.net/artwork/wishiwashi-solo.jpg,{water},"{electric,grass}",{},"{fire,ice,steel,water}",{none},{Schooling}
+747,mareanie,https://img.pokemondb.net/artwork/mareanie.jpg,{poison},"{ground,psychic}",{},"{bug,fairy,fighting,grass,poison}",{water},{Regenerator}
+748,toxapex,https://img.pokemondb.net/artwork/toxapex.jpg,"{poison,water}","{electric,ground,psychic}",{},"{bug,fairy,fighting,fire,ice,poison,steel,water}",{Regenerator},"{Merciless,Limber}"
+749,mudbray,https://img.pokemondb.net/artwork/mudbray.jpg,{ground},"{grass,ice,water}",{electric},"{poison,rock}","{""Inner Focus""}","{Stamina,""Own Tempo""}"
+750,mudsdale,https://img.pokemondb.net/artwork/mudsdale.jpg,{ground},"{grass,ice,water}",{electric},"{poison,rock}","{""Inner Focus""}","{Stamina,""Own Tempo""}"
+751,dewpider,https://img.pokemondb.net/artwork/dewpider.jpg,"{water,bug}","{electric,fire,flying,rock}",{},"{fighting,fire,ground,ice,steel,water}","{""Water Absorb""}","{""Water Bubble""}"
+752,araquanid,https://img.pokemondb.net/artwork/araquanid.jpg,"{water,bug}","{electric,fire,flying,rock}",{},"{fighting,fire,ground,ice,steel,water}","{""Water Absorrb""}","{""Water Bubble""}"
+753,formantis,https://img.pokemondb.net/artwork/fomantis.jpg,{grass},"{bug,fire,flying,ice,poison}",{},"{electric,grass,ground,water}",{Contrary},"{""Leaf Guard""}"
+754,lurantis,https://img.pokemondb.net/artwork/lurantis.jpg,{grass},"{bug,fire,flying,ice,poison}",{},"{electric,grass,ground,water}",{Contrary},"{""Leaf Guard""}"
+755,morelull,https://img.pokemondb.net/artwork/morelull.jpg,"{grass,fairy}","{fire,flying,ice,poison,poison,steel}",{dragon},"{dark,electric,fighting,grass,ground,water}","{""Rain Dish""}","{Illuminate,""Effect Spore""}"
+756,shiinotic,https://img.pokemondb.net/artwork/shiinotic.jpg,"{grass,fairy}","{fire,flying,ice,poison,poison,steel}",{dragon},"{dark,electric,fighting,grass,ground,water}","{""Rain Dish""}","{Illuminate,""Effect Spore""}"
+757,salandit,https://img.pokemondb.net/artwork/salandit.jpg,"{poison,fire}","{ground,ground,psychic,rock,water}",{},"{bug,bug,fairy,fairy,fighting,fire,grass,grass,ice,poison,steel}",{Oblivious},{Corrosion}
+758,salazzle,https://img.pokemondb.net/artwork/salazzle.jpg,"{poison,fire}","{ground,ground,psychic,rock,water}",{},"{bug,bug,fairy,fairy,fighting,fire,grass,grass,ice,poison,steel}",{Oblivious},{Corrosion}
+759,stufful,https://img.pokemondb.net/artwork/stufful.jpg,"{normal,fighting}","{fairy,fighting,flying,psychic}",{ghost},"{bug,dark,rock}","{""Cute Charm""}","{Fluffy,Klutz}"
+760,bewear,https://img.pokemondb.net/artwork/bewear.jpg,"{normal,fighting}","{fairy,fighting,flying,psychic}",{ghost},"{bug,dark,rock}",{Unnerve},"{Fluffy,Klutz}"
+761,bounsweet,https://img.pokemondb.net/artwork/bounsweet.jpg,{grass},"{bug,fire,flying,ice,poison}",{},"{electric,grass,ground,water}","{""Sweet Veil""}","{Oblivious,""Leaf Guard""}"
+762,steenee,https://img.pokemondb.net/artwork/steenee.jpg,{grass},"{bug,fire,flying,ice,poison}",{},"{electric,grass,ground,water}","{""Sweet Veil""}","{Oblivious,""Leaf Guard""}"
+763,tsareena,https://img.pokemondb.net/artwork/tsareena.jpg,{grass},"{bug,fire,flying,ice,poison}",{},"{electric,grass,ground,water}","{""Sweet Veil""}","{""Leaf Guard"",""Queenly Majesty""}"
+764,comfey,https://img.pokemondb.net/artwork/comfey.jpg,{fairy},"{poison,steel}",{dragon},"{bug,dark,fighting}","{""Natural Cure""}","{Triage,""Flower Veil""}"
+765,oranguru,https://img.pokemondb.net/artwork/oranguru.jpg,"{normal,psychic}","{bug,dark}",{ghost},{psychic},{Symbiosis},"{Telepathy,""Inner Focus""}"
+766,passimian,https://img.pokemondb.net/artwork/passimian.jpg,{fighting},"{fairy,flying,psychic}",{},"{bug,dark,rock}",{Defiant},{Receiver}
+767,wimpod,https://img.pokemondb.net/artwork/wimpod.jpg,"{bug,water}","{electric,flying,rock}",{},"{fighting,ground,ice,steel,water}",{none},"{""Wimp Out""}"
+768,golisopod,https://img.pokemondb.net/artwork/golisopod.jpg,"{bug,water}","{electric,flying,rock}",{},"{fighting,ground,ice,steel,water}",{none},"{""Emergency Exit""}"
+769,sandygast,https://img.pokemondb.net/artwork/sandygast.jpg,"{ghost,ground}","{dark,ghost,grass,ice,water}","{electric,fighting,normal}","{bug,poison,poison,rock}","{""Sand Veil""}","{""Water Compaction""}"
+770,palossand,https://img.pokemondb.net/artwork/palossand.jpg,"{ghost,ground}","{dark,ghost,grass,ice,water}","{electric,fighting,normal}","{bug,poison,poison,rock}","{""Sand Veil""}","{""Water Compaction""}"
+771,pyukumuku,https://img.pokemondb.net/artwork/pyukumuku.jpg,{water},"{electric,grass}",{},"{fire,ice,steel,water}",{Unaware},"{""Innards Out""}"
+772,type-null,https://img.pokemondb.net/artwork/type-null.jpg,{normal},{fighting},{ghost},{},{none},"{""Battle Armor""}"
+773,silvally,https://img.pokemondb.net/artwork/silvally.jpg,{normal},{fighting},{ghost},{},{none},"{""RKS System""}"
+774,minior-meteor,https://img.pokemondb.net/artwork/minior-meteor.jpg,"{rock,flying}","{electric,grass,ice,rock,steel,water}",{ground},"{bug,fire,flying,grass,normal,poison}",{none},"{""Shields Down""}"
+775,komala,https://img.pokemondb.net/artwork/komala.jpg,{normal},{fighting},{ghost},{},{none},{Comatose}
+776,turtonator,https://img.pokemondb.net/artwork/turtonator.jpg,"{fire,dragon}","{dragon,ground,ice,rock}",{},"{bug,electric,fire,fire,grass,grass,ice,steel}",{none},"{""Shell Armor""}"
+777,togedemaru,https://img.pokemondb.net/artwork/togedemaru.jpg,"{electric,steel}","{fighting,fire,ground,ground}",{poison},"{bug,dragon,electric,fairy,flying,flying,grass,ice,normal,psychic,rock,steel,steel}",{Sturdy},"{""Lightning Rod"",""Iron Barbs""}"
+778,mimikyu,https://img.pokemondb.net/artwork/mimikyu.jpg,"{ghost,fairy}","{ghost,steel}","{dragon,fighting,normal}","{bug,bug}",{none},{Disguise}
+779,bruxish,https://img.pokemondb.net/artwork/bruxish.jpg,"{water,psychic}","{bug,dark,electric,ghost,grass}",{},"{fighting,fire,ice,psychic,steel,water}","{""Wonder Skin""}","{Dazzling,""Strong Jaw""}"
+780,drampa,https://img.pokemondb.net/artwork/drampa.jpg,"{normal,dragon}","{dragon,fairy,fighting,ice}",{ghost},"{electric,fire,grass,water}","{""Cloud Nine""}","{Berserk,""Sap Sipper""}"
+781,dhelmise,https://img.pokemondb.net/artwork/dhelmise.jpg,"{ghost,grass}","{dark,fire,flying,ghost,ice}","{fighting,normal}","{electric,grass,ground,water}",{none},{Steelworker}
+782,jangmo-o,https://img.pokemondb.net/artwork/jangmo-o.jpg,{dragon},"{dragon,fairy,ice}",{},"{electric,fire,grass,water}",{Overcoat},"{Soundproof,Bulletproof}"
+783,hakamo-o,https://img.pokemondb.net/artwork/hakamo-o.jpg,"{dragon,fighting}","{dragon,fairy,fairy,flying,ice,psychic}",{},"{bug,dark,electric,fire,grass,rock,water}",{Overcoat},"{Soundproof,Bulletproof}"
+784,kommo-o,https://img.pokemondb.net/artwork/kommo-o.jpg,"{dragon,fighting}","{dragon,fairy,fairy,flying,ice,psychic}",{},"{bug,dark,electric,fire,grass,rock,water}",{Overcoat},"{Soundproof,Bulletproof}"
+785,tapu-koko,https://img.pokemondb.net/artwork/tapu-koko.jpg,"{electric,fairy}","{ground,poison}",{dragon},"{bug,dark,electric,fighting,flying}",{Telepathy},"{""Electric Surge""}"
+786,tapu-lele,https://img.pokemondb.net/artwork/tapu-lele.jpg,"{psychic,fairy}","{dark,ghost,poison,steel}",{dragon},"{dark,fighting,fighting,psychic}",{Telepathy},"{""Psychic Surge""}"
+787,tapu-bulu,https://img.pokemondb.net/artwork/tapu-bulu.jpg,"{grass,fairy}","{fire,flying,ice,poison,poison,steel}",{dragon},"{dark,electric,fighting,grass,ground,water}",{Telepathy},"{""Grassy Surge""}"
+788,tapu-fini,https://img.pokemondb.net/artwork/tapu-fini.jpg,"{water,fairy}","{electric,grass,poison}",{dragon},"{bug,dark,fighting,fire,ice,water}",{Telepathy},"{""Misty Surge""}"
+789,cosmog,https://img.pokemondb.net/artwork/cosmog.jpg,{psychic},"{bug,dark,ghost}",{},"{fighting,psychic}",{none},{Unaware}
+790,cosmeom,https://img.pokemondb.net/artwork/tmp/790.png,{psychic},"{bug,dark,ghost}",{},"{fighting,psychic}",{none},{Sturdy}
+791,solgaleo,https://img.pokemondb.net/artwork/solgaleo.jpg,"{psychic,steel}","{dark,fire,ghost,ground}",{poison},"{dragon,fairy,flying,grass,ice,normal,psychic,psychic,rock,steel}",{none},"{""Full Metal Body""}"
+792,lunala,https://img.pokemondb.net/artwork/lunala.jpg,"{psychic,ghost}","{dark,dark,ghost,ghost}","{fighting,normal}","{poison,psychic}",{none},"{""Shadow Shield""}"
+793,nihilego,https://img.pokemondb.net/artwork/nihilego.jpg,"{rock,poison}","{grass,ground,ground,psychic,steel,water}",{},"{bug,fairy,fire,flying,grass,normal,poison,poison}",{none},"{""Beast Boost""}"
+794,buzzwole,https://img.pokemondb.net/artwork/buzzwole.jpg,"{bug,fighting}","{fairy,fire,flying,flying,psychic}",{},"{bug,dark,fighting,grass,ground}",{none},"{""Beast Boost""}"
+795,pheromosa,https://img.pokemondb.net/artwork/pheromosa.jpg,"{bug,fighting}","{fairy,fire,flying,flying,psychic}",{},"{bug,dark,fighting,grass,ground}",{none},"{""Beast Boost""}"
+796,xurkitree,https://img.pokemondb.net/artwork/xurkitree.jpg,{electric},{ground},{},"{electric,flying,steel}",{none},"{""Beast Boost""}"
+797,celesteela,https://img.pokemondb.net/artwork/celesteela.jpg,"{steel,flying}","{electric,fire,rock}","{ground,poison}","{bug,bug,dragon,fairy,flying,grass,grass,normal,psychic,rock,steel}",{none},"{""Beast Boost""}"
+798,kartana,https://img.pokemondb.net/artwork/kartana.jpg,"{grass,steel}","{fighting,fire,fire,ice}",{poison},"{dragon,electric,fairy,grass,grass,ice,normal,psychic,rock,steel,water}",{none},"{""Beast Boost""}"
+799,guzzlord,https://img.pokemondb.net/artwork/guzzlord.jpg,"{dark,dragon}","{bug,dragon,fairy,fairy,fighting,ice}",{psychic},"{dark,electric,fire,ghost,grass,water}",{none},"{""Beast Boost""}"
+800,necrozma,https://img.pokemondb.net/artwork/necrozma.jpg,{psychic},"{bug,dark,ghost}",{},"{fighting,psychic}",{none},"{""Prism Armor""}"
+801,magearna,https://img.pokemondb.net/artwork/magearna.jpg,"{steel,fairy}","{fire,ground}","{dragon,poison}","{bug,bug,dark,fairy,flying,grass,ice,normal,psychic,rock}",{none},{Soul-Heart}
+802,marshadow,https://img.pokemondb.net/artwork/tmp/802.png,"{fighting,ghost}","{fairy,flying,ghost,psychic}","{fighting,normal}","{bug,bug,poison,rock}",{none},{Technician}
+110001,oricorio-pom-pom,https://img.pokemondb.net/artwork/oricorio-pom-pom.jpg,"{electric,flying}","{ice,rock}",{ground},"{bug,fighting,flying,grass,steel}",{none},{Dancer}
+110002,oricorio-pau,https://img.pokemondb.net/artwork/oricorio-pau.jpg,"{psychic,flying}","{dark,electric,ghost,ice,rock}",{ground},"{fighting,fighting,grass,psychic}",{none},{Dancer}
+110003,oricorio-sensu,https://img.pokemondb.net/artwork/oricorio-sensu.jpg,"{ghost,flying}","{dark,electric,ghost,ice,rock}","{fighting,ground,normal}","{bug,bug,grass,poison}",{none},{Dancer}
+110004,lycanroc-midnight,https://img.pokemondb.net/artwork/lycanroc-midnight.jpg,{rock},"{fighting,grass,ground,steel,water}",{},"{fire,flying,normal,poison}","{""No Guard""}","{""Vital Spirit"",""Keen eye""}"
+110005,minior-core,https://img.pokemondb.net/artwork/minior-core.jpg,"{rock,flying}","{electric,grass,ice,rock,steel,water}",{ground},"{bug,fire,flying,grass,normal,poison}",{none},"{""Shields Down""}"
